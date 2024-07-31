@@ -3,5 +3,6 @@ hello git!!!
 hello git!!!
 hello git!!!
 hello git!!!
-hello git!!!主分支在同一位置也进行修改
+hello git!!!主分支进行修改
+hello git!!!分支也进行修改
 我修改了
